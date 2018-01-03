@@ -1,4 +1,4 @@
-## whitestar/lychee
+## wssystems/lychee
 
 ![](http://lychee.electerious.com/assets/images/showcase.jpg)
 
