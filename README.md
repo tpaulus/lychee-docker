@@ -1,4 +1,4 @@
-## wonderfall/lychee
+## whitestar/lychee
 
 ![](http://lychee.electerious.com/assets/images/showcase.jpg)
 

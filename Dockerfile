@@ -53,6 +53,6 @@ VOLUME /lychee/uploads /lychee/data
 
 EXPOSE 8888
 
-LABEL maintainer="Wonderfall <wonderfall@targaryen.house>"
+LABEL maintainer="Tom Paulus <tom@whitestar.systems>"
 
 CMD ["run.sh"]
